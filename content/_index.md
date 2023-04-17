@@ -28,7 +28,7 @@ sections:
         - title: Machine Learning Research Engineer
           company: Deep Learning and Medical Image Analysis Laboratory (DeepMIA) 
           company_url: 'https://deepmia.boun.edu.tr/'
-          company_logo: org-x
+          company_logo: boun_logo
           location: Istanbul/Turkey
           date_start: '2022-11-01'
           date_end: ''
