@@ -117,18 +117,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: collection
-    content:
-      title: Publications
-      text: |-
-        
-      filters:
-        folders:
-          - 
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+  
   - block: contact
     id: contact
     content:
