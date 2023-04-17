@@ -43,19 +43,19 @@ sections:
         - title: Machine Learning Research Engineer
           company: Deep Learning and Medical Image Analysis Laboratory (DeepMIA)
           company_url: 'https://deepmia.boun.edu.tr/'
-          company_logo: org-gc
+          company_logo: boun_logo
           location: Istanbul/Turkey
           date_start: '2022-11-01'
           date_end: ''
           description: |2-
               Responsibilities include:
-              * Deep Learning based ALgorithm Development
+              * Deep Learning based Algorithm Development
               * Dataset Preparation for ML Algorithm Training
              
         - title: Graduate Research Assistant
           company: ITU Aerospace Research Center
           company_url: 'https://arc.itu.edu.tr/'
-          company_logo: org-x
+          company_logo: Istanbul_Technical_University_logo
           location: Istanbul/Turkey
           date_start: '2021-02-01'
           date_end: '2022-06-01'
