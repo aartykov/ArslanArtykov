@@ -43,7 +43,7 @@ sections:
         - title: Graduate Research Assistant
           company: ITU Aerospace Research Center 
           company_url: 'https://arc.itu.edu.tr/'
-          company_logo: images
+          company_logo: 
           location: Istanbul/Turkiye
           date_start: '2021-02-01'
           date_end: '2022-06-01'
@@ -65,11 +65,11 @@ sections:
           description: 90%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: PyTorch
+          description: 90%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
+        - name: 
           description: 10%
           icon: camera-retro
           icon_pack: fas
@@ -77,7 +77,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Awards'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -87,13 +87,12 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        - date_end: ''
+          date_start: '2020-07-01'
           description: ''
-          organization: Coursera
+          organization: Istanbul Technical University
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Student Salutatorian
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
