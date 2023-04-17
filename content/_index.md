@@ -94,11 +94,12 @@ sections:
           organization_url: ''
           title: 'Boeing Scholarship'
           url: ''
+        
         - date_end: ''
           date_start: '2020-08-01'
           description: ''
           organization: Istanbul Technical University
-          organization_url: https://www.coursera.org
+          organization_url: ''
           title: Student Salutatorian
           url: ''
           
