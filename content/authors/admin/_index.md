@@ -59,7 +59,7 @@ social:
     link: https://github.com/aartykov
   - icon: linkedin
     icon_pack: fab
-    link: 
+    link: https://www.linkedin.com/in/arslan-artykov-892886133/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -68,7 +68,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'artikov.arslan@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
