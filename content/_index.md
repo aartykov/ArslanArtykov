@@ -11,27 +11,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text:
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Python
-          description: Advanced
-          icon: r-project
-          icon_pack: fab
-        - name: C++
-          description: Medium
-          icon: r-project
-          icon_pack: fab
-        - name: PyTorch
-          description: Advanced
-          icon: chart-line
-          icon_pack: fas
-        - name: ROS
-          description: Medium
-          icon: camera-retro
-          icon_pack: fas
+      text:      
          
   - block: experience
     content:
