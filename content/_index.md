@@ -16,18 +16,23 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
+        - name: Python
+          description: Advanced
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: C++
+          description: Medium
+          icon: r-project
+          icon_pack: fab
+        - name: PyTorch
+          description: Advanced
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: ROS
+          description: Medium
           icon: camera-retro
           icon_pack: fas
+         
   - block: experience
     content:
       title: Experience
