@@ -74,5 +74,5 @@ email: 'artikov.arslan@gmail.com'
 highlight_name: true
 ---
 
-I am a M.Sc. student at the Aerospace Engineering department of Istanbul Technical University (ITU). I obtained my B.Sc. from the Aeronautical Engineering department of ITU as a salutatorian student. My research interests are 3D computer vision, generative AI, and robotics. Particularly, I am interested in visual/inertial self-localization of robots, 3D scene reconstruction, diffusion models, 3D mapping with NeRF. 
+I'm an M.Sc. student in Aerospace Engineering at Istanbul Technical University, with a B.Sc. in Aeronautical Engineering. My research focuses on 3D computer vision, generative AI, and robotics, particularly in the areas of self-localization, scene reconstruction, diffusion models, and 3D mapping. 
 {style="text-align: justify;"}
