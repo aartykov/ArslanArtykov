@@ -25,6 +25,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Machine Learning Research Engineer
+          company: Deep Learning and Medical Image Analysis Laboratory (DeepMIA) 
+          company_url: 'https://deepmia.boun.edu.tr/'
+          company_logo: org-x
+          location: Istanbul/Turkey
+          date_start: '2022-11-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Deep Learning based Algorithm Development  
+              * Dataset Preparation for ML Algorithm Training
+              
+            
+        
         - title: Graduate Research Assistant
           company: ITU Aerospace Research Center 
           company_url: 'https://arc.itu.edu.tr/'
@@ -38,14 +53,7 @@ sections:
               * Algorithm Development for an Autonomous Drone
               * Dataset Preparation for ML Algorithm Training
               * Deploying ML Algorithms on Platforms
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        
     design:
       columns: '2'
   
