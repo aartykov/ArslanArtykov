@@ -16,7 +16,7 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
+        - name: Python
           description: 90%
           icon: r-project
           icon_pack: fab
@@ -40,13 +40,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Graduate Research Assistant
+          company: ITU Aerospace Research Center
+          company_url: 'https://arc.itu.edu.tr/'
           company_logo: org-gc
           location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          date_start: '2021-02-01'
+          date_end: '2022-06-01'
           description: |2-
               Responsibilities include:
 
