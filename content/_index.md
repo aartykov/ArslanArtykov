@@ -87,8 +87,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: ''
-          date_end: '2021-09-01'
+        - date_end: '2021-09-01'
           date_start: '2020-09-01'
           description: ''
           organization: The Boeing Company
@@ -102,8 +101,8 @@ sections:
           organization_url: https://www.coursera.org
           title: Student Salutatorian
           url: ''
-        - certificate_url: ''
-          date_end: '2020-08-01'
+          
+        - date_end: '2020-08-01'
           date_start: '2017-08-01'
           description: ''
           organization: Presidency for Turks Abroad and Related Communities
