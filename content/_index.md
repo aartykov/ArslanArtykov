@@ -114,7 +114,7 @@ sections:
     design:
       columns: '2'
   
- - block: portfolio
+  - block: portfolio
     id: projects
     content:
       title: Projects
@@ -142,7 +142,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
  
- - block: markdown
+  - block: markdown
     content:
       title: Gallery
       subtitle: ''
