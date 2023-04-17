@@ -43,7 +43,7 @@ sections:
         - title: Graduate Research Assistant
           company: ITU Aerospace Research Center 
           company_url: 'https://arc.itu.edu.tr/'
-          company_logo: org-gc
+          company_logo: images
           location: Istanbul/Turkiye
           date_start: '2021-02-01'
           date_end: '2022-06-01'
