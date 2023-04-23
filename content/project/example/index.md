@@ -7,7 +7,7 @@ tags:
 date: '2023-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://damo-vilab.github.io/composer-page/'
+external_link: ''
 
 image:
   caption: Photo by rawpixel on Unsplash
