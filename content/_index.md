@@ -46,7 +46,7 @@ sections:
           date_end: '2022-06-01'
           description: |2-
               Responsibilities include:
-              * Took part in various industrial projects and helped develop navigation algorithms for cyber-physical systems.
+              * Participated in various industrial projects and helped develop navigation algorithms for cyber-physical systems.
               * Took part in dataset preparation for DL algorithm trainings.
               
     design:
