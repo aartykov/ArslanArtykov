@@ -1,6 +1,7 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: A Light-Weight Latent Composer 
+summary: Developing a light-weight Latent-Composer in PyTorch based on “Composer: Creative and
+Controllable Image Synthesis with Composable Conditions” research paper.
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
