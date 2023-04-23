@@ -48,6 +48,18 @@ sections:
               Responsibilities include:
               * Participated in various industrial projects and helped develop navigation algorithms for cyber-physical systems.
               * Took part in dataset preparation for DL algorithm trainings.
+        
+        - title: Internship
+          company: Altınay Aerospace and Advanced Technology Inc., Robotics Department
+          company_url: 'http://www.altinay.com/'
+          company_logo: 
+          location: Istanbul/Turkey
+          date_start: '2020-01-01'
+          date_end: '2020-03-01'
+          description: |2-
+              Responsibilities include:
+              * Helped developing a simulation software for a rover type vehicle with velodyne LIDAR mounted on top in Gazebo environment. 
+              
               
     design:
       columns: '2'
