@@ -34,8 +34,8 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              * Deep Learning based Algorithm Development
-              * Dataset Preparation for ML Algorithm Training
+              * Actively participating in research projects related to both autonomous driving and medical image analysis.
+              * Advising and guiding bachelor's students on their graduation projects.
              
         - title: Graduate Research Assistant
           company: ITU Aerospace Research Center
@@ -46,9 +46,9 @@ sections:
           date_end: '2022-06-01'
           description: |2-
               Responsibilities include:
-              * Algorithm Development for Autonomous Flight
-              * Dataset Preparation for ML Algorithm Training
-              * Software Deployment
+              * Took part in various industrial projects and helped develop navigation algorithms for cyber-physical systems.
+              * Took part in dataset preparation for DL algorithm trainings.
+              
     design:
       columns: '2'
   - block: accomplishments
