@@ -1,6 +1,7 @@
 ---
 title: A Light-Weight Latent Composer 
-summary: 
+summary: Developing a light-weight Latent-Composer in PyTorch based on 
+external link: 'https://damo-vilab.github.io/composer-page/'
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
