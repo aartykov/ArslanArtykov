@@ -29,4 +29,5 @@ url_video: ''
 slides: ""
 ---
 
-I am currently working on an ambitious project aimed at developing a deep learning-based solution that can generate post-contrast cardiac MRI images with high accuracy, using only contrast-free images as input. Unlike the conventional method of administering a special drug to patients that illuminates the blood vessels for contrast imaging, our proposed approach would eliminate the need for invasive procedures and potential health risks. In this project, we are utilizing diffusion models due to their exceptional ability to generate high-quality images that are both content-rich and visually appealing.  
+I am currently working on an ambitious project aimed at developing a deep learning-based solution that can generate post-contrast cardiac MRI images with high accuracy, using only contrast-free images as input. Unlike the conventional method of administering a special drug to patients that illuminates the blood vessels for contrast imaging, our proposed approach would eliminate the need for invasive procedures and potential health risks. In this project, we are utilizing diffusion models due to their exceptional ability to generate high-quality images that are both content-rich and visually appealing.
+{style="text-align: justify;"}
