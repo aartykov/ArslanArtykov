@@ -1,11 +1,9 @@
 ---
-title: DEEP LEARNING-BASED KEYPOINTS DRIVEN VISUAL INERTIAL
-ODOMETRY FOR GNSS-DENIED FLIGHT
-summary: Developed a visual-inertial navigation system for 3D flight based-on learning-based feature extractor. 
+title: Deep Learning-Based Keypoints Driven VIO for GNSS-Denied Flight
+summary: Developed a visual-inertial navigation system for 3D flight based-on learning-based feature extractor.
 tags:
   - Deep Learning
-  - Robotics
- 
+  - Computer Vision
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -38,3 +36,4 @@ inertial system, VINS-Mono, by integrating convolutional neural network (CNN)-ba
 Our experimental results indicate that the proposed method achieves performance on par with
 the conventional approach while offering potential advantages in terms of robustness and adapt-
 ability. 
+
