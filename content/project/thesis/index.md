@@ -33,6 +33,5 @@ extractor module in visual-inertial odometry with a deep learning-based feature 
 Specifically, we implemented a hybrid system based on the widely used state-of-the-art visual-
 inertial system, VINS-Mono, by integrating convolutional neural network (CNN)-based features.
 Our experimental results indicate that the proposed method achieves performance on par with
-the conventional approach while offering potential advantages in terms of robustness and adapt-
-ability. 
+the conventional approach while offering potential advantages in terms of robustness and adaptability. 
 
