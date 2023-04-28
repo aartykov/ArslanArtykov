@@ -4,6 +4,7 @@ summary: Developed a visual-inertial navigation system for 3D flight based-on le
 tags:
   - Deep Learning
   - Computer Vision
+  - Robotics
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
