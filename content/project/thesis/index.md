@@ -28,10 +28,11 @@ url_video: ''
 slides: ""
 ---
 
-This project aims to investigate the feasibility of replacing the conventional hand-crafted feature
-extractor module in visual-inertial odometry with a deep learning-based feature extractor. Our research demonstrates the comparable performance of the proposed method to the traditional one.
-Specifically, we implemented a hybrid system based on the widely used state-of-the-art visual-
-inertial system, VINS-Mono, by integrating convolutional neural network (CNN)-based features.
-Our experimental results indicate that the proposed method achieves performance on par with
-the conventional approach while offering potential advantages in terms of robustness and adaptability. 
+|This project aims to investigate the feasibility of replacing the conventional hand-crafted feature      | 
+|extractor module in visual-inertial odometry with a deep learning-based feature extractor. Our research  |
+|demonstrates the comparable performance of the proposed method to the traditional one.                   |
+|Specifically, we implemented a hybrid system based on the widely used state-of-the-art visual-           |
+|inertial system, VINS-Mono, by integrating convolutional neural network (CNN)-based features.            |
+|Our experimental results indicate that the proposed method achieves performance on par with              |
+|the conventional approach while offering potential advantages in terms of robustness and adaptability.   |
 
