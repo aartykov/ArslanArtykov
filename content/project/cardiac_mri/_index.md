@@ -1,5 +1,5 @@
 ---
-title: A Light-Weight Latent Composer
+title: Cardiac MRI
 summary: Developed a light-weight controllable diffusion model with composable conditions based on Latent Diffusion Model.
 tags:
   - Deep Learning
