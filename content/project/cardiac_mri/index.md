@@ -15,10 +15,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: github
-    icon_pack: fab
-    name: Code
-    url: https://github.com/aartykov/Latent-Composer-pytorch
+  - icon: 
+    icon_pack: 
+    name: 
+    url: 
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -32,6 +32,4 @@ url_video: ''
 slides: ""
 ---
 
-For this project, I developed a lightweight version of the [Composer: Creative and Controllable Image Synthesis with Composable Conditions](https://arxiv.org/pdf/2302.09778.pdf) based on the [Latent Diffusion Model](https://arxiv.org/pdf/2112.10752.pdf). The model provides users with a high degree of control over the image generation process. To achieve this, the input image is decomposed into its representative factors, and a diffusion model is trained on these factors to enable recomposition of the image. During inference, the generation process can be easily controlled by conditioning on different intermediate representations. The decomposed factors represent an enormous design space, which results in highly diverse and rich image content.  
-
-To make the proposed architecture lighter, I opted to work directly in the latent space rather than the pixel space, and drew on the general concept of the [Latent Diffusion Model](https://arxiv.org/pdf/2112.10752.pdf) to do so. During training, input images undergo a process in the pixel space where they are decomposed into their representative factors, such as color histogram, depth map, and canny edge map. The input images are then encoded into the latent space using a fixed encoder network. The input latent vectors then undergo a forward diffusion process where small amounts of noise are incrementally added until pure Gaussian noise is obtained. At the same time, the intermediate representations are passed through a spatial resizing block to bring them to the same spatial size as the latent vectors. Additionally, text prompts are utilized as an additional conditioning factor. I followed the same conditioning strategy proposed in the original [paper](https://arxiv.org/pdf/2302.09778.pdf) by summing the intermediate factors and concatenating the resultant vector with the noise vector. The CLIP image embeddings and text embeddings are projected, concatenated, and sent to the cross-attention layers of the U-Net transformer. For more details, please refer to the [paper](https://arxiv.org/pdf/2302.09778.pdf). During the inference stage, one has the ability to exercise complete control over the generation process by manipulating the representation factors.
+I am currently working on an ambitious project aimed at developing a deep learning-based solution that can generate post-contrast cardiac MRI images with high accuracy, using only contrast-free images as input. Unlike the conventional method of administering a special drug to patients that illuminates the blood vessels for contrast imaging, our proposed approach would eliminate the need for invasive procedures and potential health risks. In this project, we are utilizing diffusion models due to their exceptional ability to generate high-quality images that are both content-rich and visually appealing.  
