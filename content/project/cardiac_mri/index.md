@@ -1,6 +1,6 @@
 ---
 title: Cardiac MRI
-summary: Developed a light-weight controllable diffusion model with composable conditions based on Latent Diffusion Model.
+summary: Post-contrast cardiac MRI image generation using a diffusion model conditioned on contrast free images.
 tags:
   - Deep Learning
   - Generative Computer Vision
@@ -11,7 +11,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo from [the paper](https://arxiv.org/pdf/2302.09778.pdf)
+  caption: ''
   focal_point: Smart
 
 links:
