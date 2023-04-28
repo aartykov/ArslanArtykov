@@ -9,7 +9,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo from [the paper](https://arxiv.org/pdf/2302.09778.pdf)
   focal_point: Smart
 
 links:
