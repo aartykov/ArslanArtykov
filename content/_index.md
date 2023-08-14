@@ -25,6 +25,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Machine Learning Engineer
+          company: Upily
+          company_url: '[https://deepmia.boun.edu.tr/](https://upily.com/)'
+          company_logo: 
+          location: Istanbul/Turkey
+          date_start: '2023-06-10'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+              * Research, development, and implementation of learning-based cartoon animation and speech generation methods.
+              
+    
         - title: Machine Learning Research Engineer
           company: Deep Learning and Medical Image Analysis Laboratory (DeepMIA)
           company_url: 'https://deepmia.boun.edu.tr/'
