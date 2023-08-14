@@ -28,7 +28,7 @@ sections:
         - title: Machine Learning Engineer
           company: Upily
           company_url: '[https://deepmia.boun.edu.tr/](https://upily.com/)'
-          company_logo: 
+          company_logo: Artboard_1
           location: Istanbul/Turkey
           date_start: '2023-06-10'
           date_end: ''
@@ -43,7 +43,7 @@ sections:
           company_logo: boun_logo
           location: Istanbul/Turkey
           date_start: '2022-11-01'
-          date_end: ''
+          date_end: '2023-06-10'
           description: |2-
               Responsibilities include:
               * Actively participating in research projects related to both autonomous driving and medical image analysis.
