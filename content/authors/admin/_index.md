@@ -71,5 +71,5 @@ email: 'artikov.arslan@gmail.com'
 highlight_name: true
 ---
 
-I'm an MSc. student in Aerospace Engineering at Istanbul Technical University, with a B.Sc. in Aeronautical Engineering. My research focuses on 3D computer vision, generative AI, and robotics, particularly in the areas of visual localization, scene reconstruction, diffusion models, and deep implicit models. 
+I am currently pursuing my Ph.D. at Ecole des Ponts ParisTech under the esteemed guidance of Professor Vincent Lepetit. Prior to this, I earned both my master's and bachelor's degrees from Istanbul Technical University. My research is primarily centered around the exciting fields of active vision, 3D scene reconstruction, and neural implicit models.
 {style="text-align: justify;"}
