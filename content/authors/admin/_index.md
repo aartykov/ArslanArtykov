@@ -71,5 +71,5 @@ email: 'artikov.arslan@gmail.com'
 highlight_name: true
 ---
 
-I am currently pursuing my Ph.D. at Ecole des Ponts ParisTech under the esteemed guidance of Professor Vincent Lepetit. Prior to this, I earned both my master's and bachelor's degrees from Istanbul Technical University. My research is primarily centered around the exciting fields of active vision, 3D scene reconstruction, and neural implicit models.
+I am currently pursuing my Ph.D. at [Ecole des Ponts ParisTech](https://imagine-lab.enpc.fr/) under the esteemed guidance of [Prof. Vincent Lepetit](https://vincentlepetit.github.io/). Prior to this, I earned both my master's and bachelor's degrees from Istanbul Technical University. My research is primarily centered around the exciting fields of active vision, 3D scene reconstruction, and neural implicit models.
 {style="text-align: justify;"}
