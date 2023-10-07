@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Machine Learning Research Engineer with Aerospace Background
+role: PhD student 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Istanbul Technical University
-    url: https://www.itu.edu.tr/
+  - name: Ecole des Ponts ParisTech
+    url: https://imagine-lab.enpc.fr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include diffusion models, 3D reconstruction, and visual/inertial localization.
