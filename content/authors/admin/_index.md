@@ -26,7 +26,7 @@ bio: My research interests include diffusion models, 3D reconstruction, and visu
 
 # Interests to show in About widget
 interests:
-  - Machine Learning
+  - Active Computer Vision
   - Computer Vision
   - Robotics
 
