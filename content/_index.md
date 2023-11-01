@@ -34,7 +34,7 @@ sections:
           date_end: ''
           description: |2-
               Research Topics:
-              * Active object detection, 3D scene reconstruction, neural implicit models.
+              * Articulated object reconstruction, neural implicit models.
               
         - title: Machine Learning Engineer
           company: Upily
