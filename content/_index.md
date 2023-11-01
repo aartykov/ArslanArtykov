@@ -156,7 +156,7 @@ sections:
         
       # Contact (add or remove contact options as necessary)
       email: artikov.arslan@gmail.com
-      phone: +90 553 157 0831
+      phone: +33 7 68 63 53 95
       
       
       contact_links:
