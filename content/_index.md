@@ -28,7 +28,7 @@ sections:
         - title: PhD Student
           company: Ecole des Ponts ParisTech
           company_url: 'https://imagine-lab.enpc.fr/'
-          company_logo: 
+          company_logo: Logo_de_l'Ecole_des_Ponts_ParisTech_(avec_bordure) 
           location: Paris/France
           date_start: '2023-10-01'
           date_end: ''
