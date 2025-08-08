@@ -33,5 +33,5 @@ slides: ""
 ---
 
 
-{style="text-align: justify;"}
+
 
