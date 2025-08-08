@@ -18,7 +18,7 @@ links:
   - icon: github
     icon_pack: fab
     name: Code
-    url: https://github.com/vevenom/pytorchgeonodes
+    url: 'https://github.com/vevenom/pytorchgeonodes'
 url_code: ''
 url_pdf: 'https://arxiv.org/abs/2404.10620'
 url_slides: ''
