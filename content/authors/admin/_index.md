@@ -22,11 +22,11 @@ organizations:
     url: https://imagine-lab.enpc.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include diffusion models, 3D reconstruction, and visual/inertial localization.
+bio: My research interests include 3D scene reconstruction, articulated objects reconstruction.
 
 # Interests to show in About widget
 interests:
-  - Active Computer Vision
+  - 3D Computer Vision
   - Computer Vision
   - Robotics
 
@@ -62,7 +62,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: static/uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'artikov.arslan@gmail.com'
