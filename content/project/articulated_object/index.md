@@ -1,9 +1,6 @@
 ---
-title: Articulated Object Understanding from a Single Video Sequence(ICCVW'25)
-summary: It is a novel method for estimating the
-structure and joint parameters of articulated objects from a
-single casual video, captured by a potentially moving cam-
-era.
+title: Articulated Object Understanding from a Single Video Sequence (ICCVW'25)
+summary: It is a novel method for estimating the structure and joint parameters of articulated objects from a single casual video, captured by a potentially moving camera.
 
 tags:
   - Deep Learning
