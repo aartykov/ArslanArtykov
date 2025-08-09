@@ -1,5 +1,5 @@
 ---
-title: PyTorchGeoNodes
+title: PyTorchGeoNodes(CVPR'25)
 summary: PyTorchGeoNodes is a differentiable module that enables reconstruction of 3D objects and their semantic parameters using interpretable shape programs.
 
 tags:
