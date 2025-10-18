@@ -25,10 +25,10 @@ links:
     icon_pack: fas
     name: Supplementary Material
     url: 'https://aartykov.github.io/Articulated-Object-Understanding-from-Single-Video-Sequence/static/gDT-IV-00007_supp.pdf'
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+    url_code: ''
+    url_pdf: ''
+    url_slides: ''
+    url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
