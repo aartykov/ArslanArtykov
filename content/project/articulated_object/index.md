@@ -9,7 +9,7 @@ tags:
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://aartykov.github.io/Articulated-Object-Understanding-from-Single-Video-Sequence/'
 
 image:
   caption: Photo from [the paper](https://arxiv.org/pdf/2302.09778.pdf)
