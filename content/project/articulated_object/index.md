@@ -16,19 +16,20 @@ image:
   focal_point: Smart
 
 links:
-- icon: file-pdf
+  - icon: file-pdf
     icon_pack: fas
     name: Paper
     url: 'https://aartykov.github.io/Articulated-Object-Understanding-from-Single-Video-Sequence/static/gDT-IV_00007.pdf'
-
-- icon: file-pdf
+  - icon: file-pdf
     icon_pack: fas
     name: Supplementary Material
     url: 'https://aartykov.github.io/Articulated-Object-Understanding-from-Single-Video-Sequence/static/gDT-IV-00007_supp.pdf'
-    url_code: ''
-    url_pdf: ''
-    url_slides: ''
-    url_video: ''
+
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
+slides: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
