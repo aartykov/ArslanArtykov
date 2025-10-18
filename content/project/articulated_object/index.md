@@ -19,7 +19,15 @@ links:
   - icon: github
     icon_pack: fab
     name: Code
-    url: 
+    url:
+- icon: file-pdf
+    icon_pack: fab
+    name: Paper
+    url: https://aartykov.github.io/Articulated-Object-Understanding-from-Single-Video-Sequence/static/gDT-IV_00007.pdf
+- icon: file-pdf
+    icon_pack: fab
+    name: Supplementary Material
+    url: https://aartykov.github.io/Articulated-Object-Understanding-from-Single-Video-Sequence/static/gDT-IV-00007_supp.pdf
 url_code: ''
 url_pdf: ''
 url_slides: ''
